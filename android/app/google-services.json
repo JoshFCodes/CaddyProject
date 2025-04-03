@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514231564507",
+    "project_id": "fb-caddy-project",
+    "storage_bucket": "fb-caddy-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514231564507:android:96bb358018ee7fbb1a74fe",
+        "android_client_info": {
+          "package_name": "com.example.fb_caddy_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI1UcLxRkwaihHB8MotoeYJcs25WOtGGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
