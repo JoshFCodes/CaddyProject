@@ -16,7 +16,6 @@ class _LoopCreationPageState extends State<LoopCreationPage> {
   final TextEditingController _dateController = TextEditingController();
   final TextEditingController _timeController = TextEditingController();
   final TextEditingController _golferController = TextEditingController();
-  final TextEditingController _caddyController = TextEditingController();
 
   Future<void> _submitLoop() async {
     if (_typeController.text.isEmpty ||

@@ -1,5 +1,4 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/material.dart';
 import 'package:fb_caddy_project/Components/Page Elements/nav_bar.dart';
 
 class BookedLoops extends StatelessWidget {
@@ -7,7 +6,7 @@ class BookedLoops extends StatelessWidget {
   Widget build(BuildContext context) {
 
     Color backgroundColor = const Color.fromARGB(255, 134, 152, 129);
-    Color loopBackgroundColor = const Color.fromARGB(255, 176, 168, 142);
+    //Color loopBackgroundColor = const Color.fromARGB(255, 176, 168, 142);
 
     return CupertinoPageScaffold(
         backgroundColor: backgroundColor,

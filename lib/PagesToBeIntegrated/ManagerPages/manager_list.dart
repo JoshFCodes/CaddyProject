@@ -8,7 +8,7 @@ class ManagerList extends StatelessWidget {
   Widget build(BuildContext context) {
 
     Color backgroundColor = const Color.fromARGB(255, 134, 152, 129);
-    Color loopBackgroundColor = const Color.fromARGB(255, 223, 212, 179);
+    //Color loopBackgroundColor = const Color.fromARGB(255, 223, 212, 179);
 
     return CupertinoPageScaffold(
         backgroundColor: backgroundColor,
