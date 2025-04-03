@@ -1,4 +1,4 @@
-import 'package:fb_caddy_project/PagesToBeIntegrated/manager_booked_loops.dart';
+//import 'package:fb_caddy_project/PagesToBeIntegrated/manager_booked_loops.dart';
 import 'package:fb_caddy_project/PagesToBeIntegrated/CaddyPages/caddy_home.dart';
 import 'package:fb_caddy_project/PagesToBeIntegrated/ManagerPages/Manager_Home.dart';
 import 'package:fb_caddy_project/Skeleton%20Pages/auth_gate.dart';
@@ -7,7 +7,7 @@ import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/cupertino.dart';
-import 'package:fb_caddy_project/IntegratedPages/loop_market.dart';
+//import 'package:fb_caddy_project/IntegratedPages/loop_market.dart';
 
 //import 'screens/home_screen.dart';
 //import 'screens/login_screen.dart';
@@ -26,7 +26,7 @@ void main() async {
 }
 
 
-//TODO testing function
+/* //TODO testing function
 Future<void> _signOutUser() async {
   // Check if there's a currently signed-in user
   User? user = FirebaseAuth.instance.currentUser;
@@ -36,7 +36,7 @@ Future<void> _signOutUser() async {
     // Sign out the user
     //await FirebaseAuth.instance.signOut();
   }
-}
+} */
 
 class MyApp extends StatelessWidget {
   @override
